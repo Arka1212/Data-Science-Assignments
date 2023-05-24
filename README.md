@@ -1,2 +1,2 @@
 # Data-Science-Assignments
-Assignments from basics to advance
+Data Science assignments from basics to advance
